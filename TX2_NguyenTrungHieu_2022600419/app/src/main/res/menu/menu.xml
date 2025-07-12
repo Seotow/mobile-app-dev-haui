@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.demo_menu_option_hockethop.MainActivity
+ ">
+    <item
+        android:id="@+id/mnu_nhaptiep"
+        android:title="Nhập tiếp">
+    </item>
+    <item
+        android:id="@+id/mnu_thongke"
+        android:title="Thống kê">
+    </item>
+    <item
+        android:id="@+id/mnu_luutru"
+        android:title="Lưu trữ"/>
+    <item
+        android:id="@+id/mnu_dong"
+        android:title="Đóng"/>
+</menu>
